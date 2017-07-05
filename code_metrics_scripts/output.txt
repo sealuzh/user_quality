@@ -1,0 +1,138 @@
+**************************************************
+App Label -> A2DP Volume
+Fully Qualified Name -> a2dp.Vol
+Market apks
+Date 2016-01-21
+========  Size Metrics =========
+
+Number of files: 919
+Number of Classes: 919
+Number of Methods 6722
+Number of Bytecode Instructions: 80578
+Methods per Class: 7.31447225245
+Bytecode Instructions per method: 11.9872061886
+Cyclomatic complexity: 4407
+WMC: 32234.8792165
+
+
+========  Chidamber and Kemerer Metrics =========
+
+Children 0
+DIT 1
+LCom 29.6478446787
+CBO 0.353645266594
+PPIV 7.74193548387
+Max NOC: 0
+Max DIT: 1
+LCOM: 29.6478446787%
+CBO: 0.353645266594
+PPIV: 7.74193548387%
+APD: 0.490750816104 accesses per class
+
+
+========  MVC Metrics =========
+
+Num views in controllers: 513
+Num views not in controllers: 665
+# views in XML: 0
+Max # views in an XML file: 0
+Percentage of Views Defined Outside of Controllers: 56.4516129032%
+Potential Bad Token Exception 0
+Number of fragments 0
+
+
+========  Unchecked bundles Metrics =========
+
+Num Bundles: 38
+Num Checked Bundles: 19
+Num Unchecked Bundles 19
+Object Map 1191
+
+
+========  unchecked Bad Smells Metrics =========
+
+Dismiss Method Call 8
+Show Method Call 62
+setContentView  Method Call 10
+Create Scaled Bitmap 0
+onKeyDown Method Call 2
+Is Playing 0
+Unregisterreceiver Method Call 2
+onBackPressed Method Call 2
+show dialog 0
+create Method Call 7
+
+
+========  Battery Life Metrics =========
+
+.implements Landroid/location/LocationListener;
+
+Num. Timeout Wake Locks 1
+Num Lock Listeners 1
+Num Gps Uses 0
+XML Pull Parser 0
+Sax Parser 0
+Num Dom Parser 0
+
+
+========  Network Timeout Metrics =========
+
+HTTP Clients 0
+Connection Timeouts 0
+Socket Timeouts 0
+Connections no timeout 0
+Connections no Socket timeout 0
+
+
+========  Black Hole Exception Handling Metrics =========
+
+Catch Blocks 207
+LogOnly 0
+No action 74
+
+
+========  ANR Metrics =========
+
+Network operations 0
+SQL lite operations 29
+File IO operations 39
+Bitmap Decoding operations 3
+
+
+========  Intent Launch Metrics =========
+
+Start Activities 0
+Start Activity 10
+Start Instrumentation 0
+Start intent Sender 0
+Start Service 6
+Start Action Mode 0
+Start Activity for Result 14
+Start Activity from Child 0
+Start Activity from fragment 0
+Start Activity If needed 0
+Start Intent Sender for Result 0
+Start Intent Sender From Child 0
+Start Next Matching Activity 0
+Start Search 0
+
+
+========  API Information =========
+
+version: 2.0.3
+apkFileName: application.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '15'
+  targetSdkVersion: '19'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '126'
+  versionName: 2.11.13
+sharedLibrary: false
+doNotCompress:
+- arsc

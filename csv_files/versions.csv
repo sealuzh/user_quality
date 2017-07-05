@@ -1,0 +1,630 @@
+id,package_name,category,version,date,count
+1621,a2dp.Vol,Maps & Navigation,2.11.13,January 21 2016,26
+1623,a2dp.Vol,Maps & Navigation,2.12.7,September 08 2016,13
+1960,a2dp.Vol,Maps & Navigation,2.12.8,November 08 2016,20
+413,acr.browser.lightning,Communication,4.0.10a,May 11 2015,56
+414,acr.browser.lightning,Communication,4.2.3a,October 03 2015,92
+415,acr.browser.lightning,Communication,4.3.3,April 25 2016,88
+1962,acr.browser.lightning,Communication,4.4.1,November 08 2016,58
+368,app.easytoken,Tools,0.91,December 25 2014,21
+1297,app.openconnect,Communication,1.02,September 06 2014,56
+1298,app.openconnect,Communication,1.11,July 01 2015,111
+1314,apps.droidnotify,Tools,3.29.2,April 08 2013,73
+75,at.bitfire.cadroid,Tools,1.0.3,May 10 2015,16
+1810,at.bitfire.davdroid,Productivity,1.3.1-ose,September 21 2016,40
+1616,at.tomtasche.reader,Business,2.0.7,March 12 2013,1172
+1034,au.com.wallaceit.reddinator,News & Magazines,3.17,August 08 2016,27
+1544,aws.apps.usbDeviceEnumerator,Tools,0.0.5,July 17 2013,25
+585,be.ppareit.shutdown,Personalization,1.2.1,July 09 2014,19
+1964,be.uhasselt.privacypolice,Tools,2.2.4,October 05 2016,16
+12,biz.codefuture.svgviewer,Video Players & Editors,1.3.4,May 10 2015,30
+1311,biz.gyrus.yaab,Tools,1.10.1,June 29 2014,137
+1669,ca.mimic.apphangar,Tools,2.4,August 15 2014,42
+1670,ca.mimic.apphangar,Tools,2.5.1,September 17 2014,80
+1671,ca.mimic.apphangar,Tools,2.6,February 17 2015,103
+1444,ca.rmen.android.poetassistant,Books & Reference,1.9.3,September 19 2016,140
+1456,ch.blinkenlights.android.vanilla,Music & Audio,1.0.42,July 09 2016,11
+1457,ch.blinkenlights.android.vanilla,Music & Audio,1.0.43,August 16 2016,16
+1458,ch.blinkenlights.android.vanilla,Music & Audio,1.0.44,September 21 2016,62
+1046,ch.blinkenlights.battery,Tools,1.81,August 23 2012,242
+1107,ch.corten.aha.worldclock,Travel & Local,1.8.3,March 29 2016,19
+1965,ch.corten.aha.worldclock,Travel & Local,1.8.4,September 27 2016,12
+809,com.MarcosDiez.shareviahttp,Tools,2.0,April 15 2015,10
+811,com.MarcosDiez.shareviahttp,Tools,2.0.3,February 09 2016,21
+1691,com.Pau.ImapNotes2,Productivity,4.9,March 01 2016,21
+863,com.achep.acdisplay,Personalization,3.8.4,August 02 2015,2479
+1966,com.adam.aslfms,Music & Audio,1.5.1,September 27 2016,39
+1968,com.adam.aslfms,Music & Audio,1.5.2,November 18 2016,28
+1967,com.adam.aslfms,Music & Audio,1.5.3,December 12 2016,183
+307,com.alfray.timeriffic,Tools,1.09.05,January 31 2011,230
+168,com.amabyte.vtucslabmanual,Education,1.0,December 16 2014,23
+1826,com.amaze.filemanager,Tools,2.0,May 26 2015,34
+1827,com.amaze.filemanager,Tools,2.0.5,June 11 2015,60
+1828,com.amaze.filemanager,Tools,3.0.1,August 02 2015,462
+1970,com.amaze.filemanager,Tools,3.1.0 Beta 2,October 04 2016,16
+1969,com.amaze.filemanager,Tools,3.1.1,October 08 2016,285
+1010,com.android.keepass,Tools,2.0.3,July 25 2015,122
+1011,com.android.keepass,Tools,2.0.4beta1,December 15 2015,39
+1012,com.android.keepass,Tools,2.0.4,December 27 2015,399
+1971,com.android.keepass,Tools,2.0.6.4,November 07 2016,174
+1180,com.andybotting.tramhunter,Travel & Local,1.3,August 13 2013,63
+872,com.angrydoughnuts.android.alarmclock,Tools,1.9,December 13 2013,115
+873,com.angrydoughnuts.android.alarmclock,Tools,1.10,June 17 2016,65
+1972,com.angrydoughnuts.android.alarmclock,Tools,2.2,November 26 2016,12
+489,com.app.missednotificationsreminder,Tools,1.1.5,August 10 2016,21
+1973,com.app.missednotificationsreminder,Tools,1.1.11,December 15 2016,17
+1202,com.artifex.mupdfdemo,Productivity,1.9,April 25 2016,55
+526,com.aselalee.trainschedule,Maps & Navigation,1.16,May 09 2013,10
+527,com.aselalee.trainschedule,Maps & Navigation,1.18,May 11 2014,20
+528,com.aselalee.trainschedule,Maps & Navigation,1.19,October 27 2014,69
+1357,com.asksven.betterbatterystats,Tools,1.13.4.0,June 04 2013,63
+1358,com.asksven.betterbatterystats,Tools,1.15.0.0_RC8,January 24 2014,57
+1359,com.asksven.betterbatterystats,Tools,1.15.0.0,February 24 2014,1020
+706,com.axelby.podax,Music & Audio,6.2,February 06 2014,10
+708,com.axelby.podax,Music & Audio,7.06,August 07 2014,10
+1078,com.banasiak.coinflip,Tools,5.5.1,February 05 2014,11
+1079,com.banasiak.coinflip,Tools,5.5.2,April 29 2014,112
+1775,com.better.alarm,Productivity,2.7.07,August 05 2014,37
+1776,com.better.alarm,Productivity,2.8.02,February 27 2015,12
+1777,com.better.alarm,Productivity,2.9.01,March 30 2015,364
+258,com.bleyl.recurrence,Productivity,1.4.2,May 26 2016,22
+1975,com.bleyl.recurrence,Productivity,1.5,September 23 2016,46
+1126,com.boardgamegeek,Books & Reference,4.8.2,October 31 2014,19
+1127,com.boardgamegeek,Books & Reference,4.8.3,December 20 2014,15
+1128,com.boardgamegeek,Books & Reference,4.8.4,January 22 2015,272
+907,com.brapeba.roaminginfo,Tools,4.19,August 28 2015,14
+1613,com.brentpanther.bitcoinwidget,Finance,3.4.2,February 08 2016,39
+1002,com.bri1.soundbored,Entertainment,2.0,December 15 2013,24
+100,com.byagowi.persiancalendar,Productivity,5.0.6,March 08 2016,41
+101,com.byagowi.persiancalendar,Productivity,5.1.0,April 04 2016,216
+924,com.catchingnow.tinyclipboardmanager,Productivity,1.2.1,March 06 2015,25
+925,com.catchingnow.tinyclipboardmanager,Productivity,1.3.0,March 28 2015,28
+926,com.catchingnow.tinyclipboardmanager,Productivity,1.5.0,May 02 2015,600
+758,com.code61.deadpixel,Tools,1.0,March 09 2015,17
+364,com.colinmcdonough.android.torch,Tools,0.2.3,April 22 2013,244
+1387,com.color.colornamer,Tools,2.32,January 21 2014,23
+1242,com.commit451.gitlab,Productivity,2.2.4,January 26 2016,10
+1243,com.commit451.gitlab,Productivity,2.2.5,March 20 2016,84
+302,com.concentricsky.android.khan,Education,1.2.2,December 11 2013,60
+1320,com.danvelazco.fbwrapper,Social,1.7.2,December 03 2014,12
+1321,com.danvelazco.fbwrapper,Social,1.7.3,December 04 2014,97
+1322,com.danvelazco.fbwrapper,Social,1.7.5,February 06 2015,1285
+805,com.darshancomputing.BatteryIndicator,Tools,9.0.1,April 15 2016,53
+807,com.darshancomputing.BatteryIndicator,Tools,10.0.1-beta1,August 19 2016,96
+1732,com.darshancomputing.BatteryIndicatorPro,Tools,9.0.1,April 17 2016,34
+1819,com.daviancorp.android.mh4udatabase,Books & Reference,1.08,July 07 2015,488
+1209,com.dngames.mobilewebcam,Photography,2.98,April 13 2013,65
+603,com.doplgangr.secrecy,Tools,alpha-4.0,September 28 2014,84
+1013,com.dougkeen.bart,Maps & Navigation,2.2,July 13 2013,153
+1014,com.dougkeen.bart,Maps & Navigation,2.2.6,October 31 2015,100
+1648,com.dozingcatsoftware.asciicam,Photography,1.1.5,January 11 2016,87
+283,com.dozingcatsoftware.bouncy,Games,1.5.5,March 15 2016,17
+1976,com.dozingcatsoftware.bouncy,Games,1.5.6,November 01 2016,10
+441,com.dozingcatsoftware.cameratimer,Photography,1.2.2,May 21 2013,13
+1780,com.dozuki.ifixit,Books & Reference,2.0.1,October 29 2013,10
+1781,com.dozuki.ifixit,Books & Reference,2.4.0,January 16 2014,27
+1782,com.dozuki.ifixit,Books & Reference,2.4.1,March 07 2014,537
+171,com.drodin.tuxrider,Games,1.0.9,November 07 2012,18
+531,com.ds.avare,Maps & Navigation,6.1.0,July 25 2015,619
+729,com.duckduckgo.mobile.android,Books & Reference,3.0.11,September 29 2015,245
+730,com.duckduckgo.mobile.android,Books & Reference,3.0.12,February 06 2016,436
+1978,com.duckduckgo.mobile.android,Books & Reference,3.0.13,October 08 2016,24
+1979,com.duckduckgo.mobile.android,Books & Reference,3.0.14,October 18 2016,488
+1145,com.dynamicg.homebuttonlauncher,Tools,4.1,December 25 2014,200
+1198,com.easwareapps.g2l,Tools,1.11.6,June 19 2014,12
+974,com.easytarget.micopi,Personalization,3.4.5,February 04 2016,60
+975,com.easytarget.micopi,Personalization,3.6.1,March 12 2016,12
+976,com.easytarget.micopi,Personalization,3.6.11,March 19 2016,225
+866,com.eleybourn.bookcatalogue,Productivity,5.0.7,June 05 2013,615
+1806,com.elsdoerfer.android.autostarts,Tools,1.9.7,January 15 2015,77
+1304,com.emmaguy.cleanstatusbar,Tools,1.1.4,October 14 2015,256
+1233,com.eolwral.osmonitor,Tools,3.4.1.0,March 17 2015,148
+1234,com.eolwral.osmonitor,Tools,3.5.0.6,January 11 2016,132
+1235,com.eolwral.osmonitor,Tools,3.5.0.7,September 08 2016,122
+2,com.f2prateek.dfg,Tools,1.1.3,November 05 2013,226
+520,com.farmerbb.taskbar,Tools,1.1.10,September 15 2016,19
+521,com.farmerbb.taskbar,Tools,1.2,September 21 2016,293
+72,com.foxykeep.lifecounter,Tools,1.0,August 14 2015,14
+780,com.frostwire.android,Video Players & Editors,1.0.7,April 22 2013,8867
+274,com.frozendevs.cache.cleaner,Tools,2.1.5,June 11 2015,13
+275,com.frozendevs.cache.cleaner,Tools,2.1.6,August 05 2015,19
+276,com.frozendevs.cache.cleaner,Tools,2.2.0,November 05 2015,133
+1118,com.frozendevs.periodictable,Education,1.1.1,November 15 2014,33
+108,com.fsck.k9,Communication,5.007,November 29 2015,175
+109,com.fsck.k9,Communication,5.008,February 10 2016,213
+110,com.fsck.k9,Communication,5.010,April 15 2016,1172
+479,com.gelakinetic.mtgfam,Tools,3.3.1-foss,May 13 2016,70
+480,com.gelakinetic.mtgfam,Tools,3.3.3-foss,July 17 2016,68
+481,com.gelakinetic.mtgfam,Tools,3.3.4-foss,September 19 2016,14
+1982,com.gelakinetic.mtgfam,Tools,3.3.5-foss,September 29 2016,20
+1981,com.gelakinetic.mtgfam,Tools,3.3.6-foss,October 11 2016,152
+1663,com.gh4a,Productivity,3.8,May 19 2015,11
+1664,com.gh4a,Productivity,3.8.1,June 15 2015,159
+93,com.ghostsq.commander,Tools,1.53.6,June 10 2016,82
+578,com.ghostsq.commander.samba,Libraries & Demo,1.32b2,February 27 2015,17
+815,com.ghostsq.commander.sftp,Libraries & Demo,1.13.1,August 15 2014,20
+454,com.ghstudios.android.mhgendatabase,Books & Reference,1.1.1,August 18 2016,129
+1983,com.ghstudios.android.mhgendatabase,Books & Reference,1.1.2,October 20 2016,195
+362,com.gimranov.zandy.app,Education,1.3.7,July 04 2013,30
+420,com.github.andlyticsproject,Tools,2.5.6,September 05 2013,17
+422,com.github.andlyticsproject,Tools,2.5.8,February 05 2014,149
+30,com.github.grimpy.botifier,Tools,1.4.1,October 24 2014,12
+1491,com.github.premnirmal.tickerwidget,Finance,1.10.53,July 06 2015,107
+1561,com.github.quarck.calnotify,Productivity,1.3.18,September 15 2016,57
+846,com.github.wdkapps.fillup,Maps & Navigation,1.7.2,March 10 2015,211
+912,com.gmail.jerickson314.sdscanner,Tools,1.11,February 16 2015,177
+789,com.google.android.apps.authenticator2,Tools,2.21,August 23 2012,2976
+1609,com.google.android.diskusage,Tools,3.4.2,November 13 2013,2343
+1230,com.google.android.gms,Tools,1.6.7,July 19 2016,103535
+1224,com.google.android.marvin.talkback,Tools,3.1.1_r68,May 09 2013,7807
+1768,com.google.android.stardroid,Books & Reference,1.6.5,November 04 2013,2861
+1543,com.google.zxing.client.android,Shopping,4.7.3,February 16 2015,2566
+724,com.googlecode.gtalksms,Tools,4.4.1,September 30 2013,11
+979,com.googlecode.networklog,Tools,2.25.1,August 05 2015,36
+771,com.gpl.rpg.AndorsTrail,Games,0.7.1,February 27 2014,1058
+1481,com.grarak.kerneladiutor,Tools,0.9.9.2.3,December 07 2015,100
+1482,com.grarak.kerneladiutor,Tools,0.9.9.3,January 12 2016,238
+1483,com.grarak.kerneladiutor,Tools,0.9.9.4,February 23 2016,2147
+715,com.gulshansingh.hackerlivewallpaper,Entertainment,1.8.2,September 01 2015,89
+582,com.harleensahni.android.mbr,Music & Audio,1.5.1,May 22 2014,60
+762,com.hectorone.multismssender,Communication,2.3,November 07 2012,22
+1548,com.hobbyone.HashDroid,Tools,3.1,July 09 2013,91
+1428,com.ichi2.anki,Education,2.5.4,January 09 2016,251
+1429,com.ichi2.anki,Education,2.6,June 15 2016,52
+1430,com.ichi2.anki,Education,2.6.1,July 11 2016,587
+86,com.ihunda.android.binauralbeat,Health & Fitness,2.0.3,October 11 2012,1095
+1401,com.innodroid.mongobrowser,Tools,2.0.0,August 13 2015,32
+1793,com.iskrembilen.quasseldroid,Communication,0.11.5,January 04 2015,16
+1794,com.iskrembilen.quasseldroid,Communication,0.11.7,March 07 2016,23
+890,com.jadn.cc,Music & Audio,1.0.154,August 12 2013,22
+891,com.jadn.cc,Music & Audio,1.0.173,July 13 2014,32
+1293,com.javiersantos.mlmanager,Tools,1.0.4,September 03 2015,74
+571,com.jefftharris.passwdsafe,Productivity,5.1.0,October 24 2014,23
+572,com.jefftharris.passwdsafe,Productivity,5.2.0,February 11 2015,301
+721,com.jforce.chapelhillnextbus,Maps & Navigation,1.1,October 27 2014,13
+1660,com.jmstudios.redmoon,Tools,2.9.1,August 24 2016,21
+1144,com.jonglen7.jugglinglab,Games,1.3,March 08 2014,24
+179,com.juet.attendance,Education,2.1.1,January 28 2015,16
+374,com.kaneoriley.cyanogenport.launcher3,Personalization,12.1-150804,August 28 2015,250
+514,com.knirirr.beecount,Productivity,2.3.9,August 16 2015,10
+515,com.knirirr.beecount,Productivity,2.4.1,January 21 2016,13
+516,com.knirirr.beecount,Productivity,2.4.4,September 05 2016,25
+1666,com.koushikdutta.superuser,Tools,1.0.2.8,January 30 2014,32
+1667,com.koushikdutta.superuser,Tools,1.0.2.9,February 05 2014,55
+1668,com.koushikdutta.superuser,Tools,1.0.3.0,February 16 2014,1833
+1181,com.lgallardo.qbittorrentclientpro,Tools,3.9.0,April 14 2015,45
+1054,com.llamacorp.equate,Tools,1.1,October 26 2015,19
+1417,com.lukekorth.screennotifications,Tools,0.13.0,January 08 2016,19
+1418,com.lukekorth.screennotifications,Tools,0.14.0,January 29 2016,29
+1419,com.lukekorth.screennotifications,Tools,0.14.2,March 18 2016,198
+1063,com.manor.currentwidget,Tools,0.39,July 16 2013,284
+1064,com.manor.currentwidget,Tools,0.4a,March 12 2015,231
+1487,com.mantz_it.rfanalyzer,Tools,1.12,November 30 2014,80
+190,com.manuelmaly.hn,News & Magazines,1.9.13,November 25 2015,16
+116,com.maskyn.fileeditorpro,Productivity,1.19,March 29 2015,13
+1744,com.matejdro.pebbledialer,Productivity,2.52,November 26 2015,26
+1745,com.matejdro.pebbledialer,Productivity,2.56,January 10 2016,24
+1746,com.matejdro.pebbledialer,Productivity,2.57,May 18 2016,17
+1992,com.matejdro.pebbledialer,Productivity,3.2,October 11 2016,10
+1061,com.mattgmg.miracastwidget,Video Players & Editors,1.8,October 30 2015,521
+1289,com.mendhak.gpslogger,Travel & Local,27-fdroid,March 05 2013,292
+1568,com.menny.android.anysoftkeyboard,Tools,20130919,October 06 2013,807
+1569,com.menny.android.anysoftkeyboard,Tools,1.8.84,July 08 2016,46
+1570,com.menny.android.anysoftkeyboard,Tools,1.8.146,September 11 2016,153
+129,com.mgaetan89.showsrage,Video Players & Editors,1.1,October 19 2015,43
+4,com.midisheetmusic,Music & Audio,2.5.1,November 05 2012,398
+757,com.mill_e.twitterwrapper,Social,1.5.1,April 16 2015,72
+1558,com.mobilepearls.sokoban,Games,1.11,January 05 2011,30
+184,com.moez.QKSMS,Communication,2.7.1,August 07 2016,76
+185,com.moez.QKSMS,Communication,2.7.2,September 02 2016,17
+186,com.moez.QKSMS,Communication,2.7.3,September 08 2016,392
+1585,com.moonpi.swiftnotes,Productivity,3.1.3,April 04 2015,12
+589,com.morlunk.mumbleclient,Communication,3.1.5,August 24 2014,10
+590,com.morlunk.mumbleclient,Communication,3.2.0,October 28 2014,53
+591,com.morlunk.mumbleclient,Communication,3.3.0-rc1,March 26 2016,16
+1260,com.mridang.wifiinfo,Productivity,1.0.2,April 14 2013,27
+95,com.namelessdev.mpdroid,Video Players & Editors,1.06,December 24 2013,119
+96,com.namelessdev.mpdroid,Video Players & Editors,1.07.2,January 14 2015,110
+238,com.nathanosman.chronosnap,Photography,1.0.5,May 13 2015,11
+409,com.nauj27.android.colorpicker,Photography,3.1,November 17 2013,85
+360,com.nextcloud.client,Productivity,1.3.1,September 21 2016,24
+1994,com.nextcloud.client,Productivity,1.4.0,December 12 2016,69
+1506,com.nightshadelabs.anotherbrowser,Tools,1.2,April 08 2015,60
+888,com.nilhcem.hostseditor,Tools,1.4,January 02 2015,2183
+1100,com.nkanaev.comics,Comics,1.6.0,July 29 2016,51
+155,com.nolanlawson.keepscore,Tools,1.5.1,March 10 2014,120
+1435,com.nolanlawson.logcat,Tools,1.4.4,April 25 2013,88
+1436,com.nolanlawson.logcat,Tools,1.6.0,February 11 2015,147
+579,com.nononsenseapps.notepad,Productivity,5.5.3,November 09 2014,10
+580,com.nononsenseapps.notepad,Productivity,5.5.5,June 16 2015,11
+581,com.nononsenseapps.notepad,Productivity,5.7.1,November 20 2015,24
+1505,com.notriddle.budget,Finance,4.2,June 04 2014,28
+115,com.numix.calculator,Tools,2.2,August 20 2014,56
+1761,com.numix.icons_circle,Personalization,1.1,August 20 2014,148
+1762,com.numix.icons_circle,Personalization,2.0.1,October 16 2014,127
+1763,com.numix.icons_circle,Personalization,2.0.3,January 16 2015,378
+1290,com.oakley.fon,Communication,1.4.9,November 15 2014,16
+1291,com.oakley.fon,Communication,1.5.0,February 14 2015,22
+1292,com.oakley.fon,Communication,1.5.1,November 23 2015,35
+1995,com.oakley.fon,Communication,1.5.2,December 12 2016,10
+916,com.olam,Books & Reference,1.0,November 04 2014,507
+1468,com.opendoorstudios.ds4droid,Games,46,January 06 2015,2362
+832,com.owncloud.android,Productivity,2.0.1,June 10 2016,24
+833,com.owncloud.android,Productivity,2.1.0,August 11 2016,29
+834,com.owncloud.android,Productivity,2.1.1,September 08 2016,21
+1996,com.owncloud.android,Productivity,2.1.2,September 29 2016,103
+277,com.palliser.nztides,Games,7,January 02 2016,16
+1998,com.palliser.nztides,Games,11,November 30 2016,17
+1690,com.phpsysinfo,Productivity,0.86,October 26 2015,13
+546,com.pilockerstable,Personalization,3.0,October 20 2014,47
+1167,com.pilot51.voicenotify,Tools,1.0.11.2,February 10 2014,32
+1168,com.pilot51.voicenotify,Tools,1.0.12,May 05 2014,260
+135,com.pindroid,Productivity,3.2.0,May 01 2016,13
+1422,com.plusonelabs.calendar,Productivity,1.9.1,August 28 2015,95
+1423,com.plusonelabs.calendar,Productivity,1.9.2-6b6d980,October 26 2015,15
+1424,com.plusonelabs.calendar,Productivity,1.9.3-35a0ac1,November 05 2015,439
+1300,com.powerpoint45.lucidbrowser,Communication,3.7,July 13 2014,71
+1255,com.reicast.emulator,Entertainment,0.r5+,December 29 2013,2356
+752,com.ringdroid,Video Players & Editors,2.6,October 11 2012,490
+753,com.ringdroid,Video Players & Editors,2.7.2,June 08 2015,73
+754,com.ringdroid,Video Players & Editors,2.7.3,June 24 2015,1640
+278,com.roguetemple.hyperroid,Games,6.6,September 02 2015,16
+1344,com.ruesga.android.wallpapers.photophase,Personalization,1.0.12,November 09 2014,30
+1346,com.ruesga.android.wallpapers.photophase,Personalization,2.1.1,July 11 2016,18
+1258,com.sam.hex,Games,2.4.1,June 03 2013,61
+1364,com.seb.SLWP,Personalization,1.4,May 10 2013,702
+1365,com.seb.SLWP,Personalization,1.5,January 06 2015,445
+440,com.shahul3d.indiasatelliteweather,Weather,2.0 alpha,January 28 2015,2459
+799,com.shatteredpixel.shatteredpixeldungeon,Games,0.4.0,June 24 2016,114
+800,com.shatteredpixel.shatteredpixeldungeon,Games,0.4.1a,August 12 2016,54
+801,com.shatteredpixel.shatteredpixeldungeon,Games,0.4.2a,September 15 2016,62
+2002,com.shatteredpixel.shatteredpixeldungeon,Games,0.4.3c,November 08 2016,170
+985,com.simplemobiletools.calendar,Tools,1.22,September 21 2016,250
+1620,com.simplemobiletools.camera,Tools,1.21,September 21 2016,72
+114,com.simplemobiletools.filemanager,Tools,1.3,August 31 2016,97
+1644,com.simplemobiletools.gallery,Tools,1.20,September 08 2016,1036
+991,com.simplemobiletools.musicplayer,Tools,1.18,September 08 2016,80
+612,com.soyblue.bluesound,Tools,1.4,April 06 2015,59
+1783,com.termux,Tools,0.40,September 05 2016,11
+1784,com.termux,Tools,0.41,September 08 2016,21
+1785,com.termux,Tools,0.42,September 17 2016,561
+498,com.termux.api,Productivity,0.10,April 27 2016,14
+626,com.thibaudperso.sonycamera,Video Players & Editors,2.0.2,February 11 2015,80
+628,com.thibaudperso.sonycamera,Video Players & Editors,2.0.4,March 07 2016,85
+735,com.tmarki.comicmaker,Comics,1.5.4,February 14 2013,2091
+1109,com.tobykurien.batteryfu,Tools,1.45,March 26 2014,12
+734,com.totsp.crossword.shortyz,Games,3.2.10,November 18 2013,1238
+1333,com.twinone.locker,Tools,2.6.0,June 17 2015,20
+32,com.twofours.surespot,Social,65-mod,April 21 2016,39
+1786,com.u17od.upm,Tools,1.14,December 09 2013,215
+1787,com.u17od.upm,Tools,1.15,June 17 2016,45
+1492,com.ubergeek42.WeechatAndroid,Communication,0.10,April 18 2015,35
+1494,com.ubergeek42.WeechatAndroid,Communication,0.12-git,August 29 2016,13
+1774,com.umang.dashnotifier,Personalization,0.48,November 28 2013,226
+1649,com.unleashyouradventure.swaccess,Books & Reference,014 beta,January 29 2014,44
+1650,com.unleashyouradventure.swaccess,Books & Reference,015 beta,January 18 2015,81
+795,com.vrem.wifianalyzer,Tools,1.5.6,July 28 2016,23
+796,com.vrem.wifianalyzer,Tools,1.5.7,August 25 2016,31
+797,com.vrem.wifianalyzer,Tools,1.5.8,September 18 2016,395
+750,com.vuze.android.remote,Tools,2.2.4,January 15 2015,166
+751,com.vuze.android.remote,Tools,2.3.1,April 02 2016,53
+299,com.watabou.pixeldungeon,Games,1.7.5a,January 26 2015,361
+300,com.watabou.pixeldungeon,Games,1.9.1,October 05 2015,2046
+657,com.willhauck.linconnectclient,Tools,2.20,March 30 2014,27
+658,com.willhauck.linconnectclient,Tools,2.21,February 13 2015,23
+886,com.xargsgrep.portknocker,Tools,1.0.3,April 15 2014,10
+548,com.yassirh.digitalocean,Productivity,2.1.2,January 03 2016,46
+2009,com.yassirh.digitalocean,Productivity,2.3,October 28 2016,21
+929,com.zaren,Tools,1.24,September 07 2013,34
+1739,com.zegoggles.smssync,Tools,1.5.8,January 17 2015,492
+1740,com.zegoggles.smssync,Tools,1.5.9,August 02 2015,64
+1741,com.zegoggles.smssync,Tools,1.5.10,August 22 2015,1867
+325,cx.ring,Communication,20160803,August 14 2016,35
+852,damo.three.ie,Tools,0.15,February 28 2015,16
+1073,de.azapps.mirakelandroid,Productivity,3.0,September 30 2015,16
+557,de.blinkt.openvpn,Communication,0.6.52,April 17 2016,39
+558,de.blinkt.openvpn,Communication,0.6.54,May 07 2016,118
+559,de.blinkt.openvpn,Communication,0.6.57,August 02 2016,80
+2011,de.blinkt.openvpn,Communication,0.6.60,October 13 2016,212
+841,de.danoeh.antennapod,Video Players & Editors,1.5.2.0,March 18 2016,268
+842,de.danoeh.antennapod,Video Players & Editors,1.6.1.0,June 22 2016,10
+843,de.danoeh.antennapod,Video Players & Editors,1.6.1.2,June 25 2016,570
+2012,de.danoeh.antennapod,Video Players & Editors,1.6.2.2,November 17 2016,585
+216,de.eidottermihi.raspicheck,Tools,1.8.0,May 23 2016,46
+1817,de.j4velin.pedometer,Health & Fitness,1.4.1,July 29 2015,12
+1818,de.j4velin.pedometer,Health & Fitness,1.4.3,March 31 2016,24
+166,de.j4velin.systemappmover,Tools,1.7,November 20 2015,139
+2013,de.j4velin.systemappmover,Tools,1.7.2,October 05 2016,74
+1526,de.j4velin.wifiAutoOff,Tools,1.6.8,December 04 2015,152
+1527,de.j4velin.wifiAutoOff,Tools,1.6.9,May 21 2016,102
+2015,de.j4velin.wifiAutoOff,Tools,1.7.3,September 29 2016,108
+692,de.jurihock.voicesmith,Music & Audio,2.6,February 27 2014,31
+1171,de.kugihan.dictionaryformids.hmi_android,Books & Reference,0.91.1,January 02 2013,13
+1043,de.mangelow.network,Tools,1.03,May 06 2015,331
+982,de.measite.contactmerger,Tools,1.2.2,August 09 2014,13
+46,de.msal.muzei.nationalgeographic,Personalization,1.1.4,October 26 2015,15
+1372,de.onyxbits.listmyapps,Tools,3.7,July 22 2016,52
+650,de.onyxbits.remotekeyboard,Productivity,1.5,October 12 2013,13
+651,de.onyxbits.remotekeyboard,Productivity,1.6,March 07 2014,183
+652,de.onyxbits.remotekeyboard,Productivity,1.7,July 22 2016,29
+234,de.onyxbits.sensorreadout,Tools,2.4,April 02 2015,15
+1651,de.onyxbits.textfiction,Games,2.6,September 18 2014,245
+1796,de.ph1b.audiobook,Music & Audio,2.7.2.1,April 01 2016,100
+1797,de.ph1b.audiobook,Music & Audio,2.7.2.3,August 05 2016,351
+432,de.qspool.clementineremote,Music & Audio,8.5,January 30 2014,92
+433,de.qspool.clementineremote,Music & Audio,v10.1,December 16 2014,116
+434,de.qspool.clementineremote,Music & Audio,v11.1,September 16 2016,26
+88,de.reimardoeffinger.quickdic,Books & Reference,5.2.8,April 17 2016,12
+89,de.reimardoeffinger.quickdic,Books & Reference,5.2.9,August 22 2016,38
+284,de.repat.mosf,Tools,1.0.3,April 12 2015,26
+1238,de.saschahlusiak.freebloks,Games,0.5.3,June 30 2016,117
+350,de.srlabs.snoopsnitch,Tools,1.0.0,August 14 2015,22
+351,de.srlabs.snoopsnitch,Tools,1.0.1,January 04 2016,82
+378,de.szalkowski.activitylauncher,Tools,1.5.1,September 28 2015,137
+431,de.ub0r.android.callmeter,Tools,3.10,November 18 2013,164
+678,de.ub0r.android.smsdroid,Communication,1.5.1,October 20 2013,168
+919,de.ub0r.android.websms,Communication,4.7.1,October 20 2013,58
+273,de.yazo_games.mensaguthaben,Video Players & Editors,1.2,June 13 2015,18
+682,dev.ukanth.ufirewall,Tools,2.2.3,March 18 2016,98
+684,dev.ukanth.ufirewall,Tools,2.5.2,August 14 2016,91
+2019,dev.ukanth.ufirewall,Tools,2.9.1,December 15 2016,77
+536,dk.andsen.asqlitemanager,Tools,3.6,May 14 2013,234
+1552,dk.nindroid.rss,Entertainment,3.4.23,June 24 2013,100
+1375,douzifly.list,Productivity,1.5.6,February 27 2016,41
+1728,et.nWifiManager,Communication,1.9,November 24 2014,26
+501,eu.faircode.netguard,Tools,2.44,August 06 2016,295
+867,eu.mrogalski.saidit,Tools,1.3.38,October 31 2014,52
+1687,eu.siacs.conversations,Communication,1.14.3,September 21 2016,69
+376,fr.herverenault.selfhostedgpstracker,Tools,1.7,October 20 2015,12
+231,fr.neamar.kiss,Personalization,2.24.0,June 26 2016,10
+233,fr.neamar.kiss,Personalization,2.25.0,August 03 2016,156
+1393,fr.simon.marquis.preferencesmanager,Tools,1.8.1,June 26 2014,17
+1395,fr.simon.marquis.preferencesmanager,Tools,1.8.3,May 14 2016,16
+958,fr.simon.marquis.secretcodes,Tools,2.0,April 17 2016,41
+533,giraffine.dimmer,Tools,3.3.0,February 13 2015,154
+534,giraffine.dimmer,Tools,3.3.1,December 03 2015,198
+318,github.daneren2005.dsub,Music & Audio,4.3.5,January 15 2014,231
+319,github.daneren2005.dsub,Music & Audio,5.0.3,October 08 2015,174
+455,goo.TeaTimer,Lifestyle,1.6,May 18 2011,39
+1371,im.vector.alpha,Communication,0.4.0,August 18 2016,88
+538,in.blogspot.anselmbros.torchie,Tools,1.2.0,February 09 2016,71
+539,in.blogspot.anselmbros.torchie,Tools,2.0,May 19 2016,315
+1218,in.shick.diode,News & Magazines,1.2.0,August 24 2015,12
+1219,in.shick.diode,News & Magazines,1.2.1,September 19 2016,11
+5,info.guardianproject.checkey,Tools,0.1.1,February 01 2015,30
+1437,info.guardianproject.pixelknot,Communication,0.3.1,December 15 2013,31
+1438,info.guardianproject.pixelknot,Communication,0.3.3,July 06 2015,35
+400,info.papdt.blackblub,Tools,1.0.2.2,April 04 2016,660
+104,it.greenaddress.cordova,Finance,0.0.72,April 12 2015,38
+563,it.iiizio.epubator,Books & Reference,0.12,September 06 2015,81
+507,jackpal.androidterm,Tools,1.0.70,April 16 2015,293
+1579,jp.co.kayo.android.localplayer,Music & Audio,3.37b,February 11 2013,73
+125,jp.forkhub,Productivity,1.2.2,June 07 2016,18
+1640,jp.sblo.pandora.aGrep,Tools,2014.03,January 26 2015,30
+1316,jp.sfjp.webglmol.NDKmol,Education,0.92,February 04 2013,21
+1140,jp.takke.cpustats,Tools,1.2.2,November 24 2014,31
+1141,jp.takke.cpustats,Tools,1.3.0,April 22 2015,90
+1441,jp.yhonda,Education,2.8,June 15 2015,54
+169,jwtc.android.chess,Games,8.4.3,August 31 2014,50
+1576,kvj.taskw,Productivity,0.1.160410,April 13 2016,18
+137,marto.rtl_tcp_andro,Tools,2.2,December 09 2014,70
+845,mazechazer.android.wottankquiz,Games,1.14,November 02 2014,13
+739,me.bpear.archonpackager,Tools,0.9.6,November 12 2014,63
+271,me.guillaumin.android.osmtracker,Travel & Local,0.6.11,August 24 2015,19
+1815,me.phh.superuser,Tools,1.0.3.3,January 21 2016,94
+1354,me.sheimi.sgit,Tools,1.3.1,June 01 2016,16
+1355,me.sheimi.sgit,Tools,1.3.2,August 21 2016,13
+1187,me.tsukanov.counter,Tools,16,July 21 2015,18
+1188,me.tsukanov.counter,Tools,13,October 26 2015,57
+2025,me.tsukanov.counter,Tools,17,November 22 2016,36
+327,me.writeily,Productivity,1.3.2,May 20 2015,22
+77,mobi.omegacentauri.SendReduced,Photography,0.13,April 29 2016,22
+64,mohammad.adib.roundr,Personalization,3.0.1,June 19 2013,694
+1367,naman14.timber,Music & Audio,0.122b,October 12 2015,54
+1369,naman14.timber,Music & Audio,0.14b,January 09 2016,104
+2026,naman14.timber,Music & Audio,0.2b,November 02 2016,38
+315,name.boyle.chris.sgtpuzzles,Games,2015-09-10-2219-eda5a86,September 14 2015,106
+316,name.boyle.chris.sgtpuzzles,Games,2016-01-13-0847-1d9d6cb,January 15 2016,343
+1088,net.androgames.level,Tools,1.9.7,September 17 2014,2717
+221,net.bible.android.activity,Books & Reference,2.5.1,April 17 2016,92
+222,net.bible.android.activity,Books & Reference,2.7.0,September 15 2016,156
+295,net.bytten.xkcdviewer,Comics,4.1.0,April 20 2013,38
+1539,net.codechunk.speedofsound,Music & Audio,0.8.2,January 19 2013,16
+1743,net.cyclestreets,Travel & Local,2.0.1,August 12 2013,118
+119,net.fred.feedex,News & Magazines,1.8.1,April 11 2015,38
+121,net.fred.feedex,News & Magazines,1.9.1,March 27 2016,91
+1305,net.iowaline.dotdash,Productivity,1.2.1,December 14 2015,17
+469,net.kervala.comicsreader,Comics,1.2,March 15 2014,50
+471,net.kervala.comicsreader,Comics,2.0b,October 27 2014,57
+1150,net.kismetwireless.android.smarterwifimanager,Communication,2015.07.70,September 14 2015,15
+1240,net.lardcave.keepassnfc,Productivity,1.1,February 05 2014,13
+1361,net.minetest.minetest,Games,0.4.12.12,March 23 2015,98
+1362,net.minetest.minetest,Games,0.4.13.13,August 22 2015,70
+1363,net.minetest.minetest,Games,0.4.14.14,May 17 2016,103
+711,net.momodalo.app.vimtouch,Tools,2.3,March 30 2013,166
+1331,net.nurik.roman.dashclock,Personalization,1.6,January 27 2014,2099
+609,net.nurik.roman.muzei,Personalization,1.0.1,March 03 2014,2239
+138,net.osmand.plus,Travel & Local,2.3.5,May 19 2016,98
+139,net.osmand.plus,Travel & Local,2.4.4,August 22 2016,27
+140,net.osmand.plus,Travel & Local,2.4.6,September 08 2016,218
+42,net.pierrox.mcompass,Tools,1.2.4,January 21 2012,237
+461,net.pmarks.chromadoze,Music & Audio,3.5.5,January 31 2016,36
+1757,net.ralphbroenink.muzei.unsplash,Personalization,1.0.2,December 03 2014,11
+1204,net.sf.times,Lifestyle,4.3,November 07 2014,10
+1205,net.sf.times,Lifestyle,4.5,January 06 2015,15
+1206,net.sf.times,Lifestyle,6.0,October 29 2015,32
+1473,net.somethingdreadful.MAL,Social,1.3.2,March 08 2014,18
+1474,net.somethingdreadful.MAL,Social,1.4,June 21 2014,286
+288,net.sourceforge.opencamera,Photography,1.32,July 22 2016,101
+289,net.sourceforge.opencamera,Photography,1.32.1,July 27 2016,371
+290,net.sourceforge.opencamera,Photography,1.33,August 29 2016,1208
+2029,net.sourceforge.opencamera,Photography,1.35,November 18 2016,2312
+1528,net.sourceforge.subsonic.androidapp,Music & Audio,4.1,January 16 2014,91
+1529,net.sourceforge.subsonic.androidapp,Music & Audio,4.3.1,June 20 2014,20
+1530,net.sourceforge.subsonic.androidapp,Music & Audio,4.4,August 28 2014,174
+1307,net.wigle.wigleandroid,Tools,2.4,August 20 2014,75
+1308,net.wigle.wigleandroid,Tools,2.10,March 20 2016,64
+484,nitezh.ministock,Finance,66,August 31 2016,23
+485,nitezh.ministock,Finance,67,September 13 2016,19
+2030,nitezh.ministock,Finance,68,October 17 2016,41
+10,ohi.andre.consolelauncher,Personalization,4.4.b1,June 20 2016,11
+11,ohi.andre.consolelauncher,Personalization,4.5.b1,July 08 2016,1065
+1533,org.addhen.smssync,Tools,2.7.3,January 15 2015,18
+555,org.ametro,Maps & Navigation,1.1.4,September 28 2012,23
+542,org.andglkmod.hunkypunk,Games,0.8,January 24 2014,30
+1340,org.androidsoft.app.permission,Tools,2.1.0,April 20 2015,120
+97,org.androidsoft.coloring,Games,1.0.1,April 20 2015,16
+1678,org.androidsoft.games.memory.kids,Games,2.0.2,April 20 2015,12
+382,org.brandroid.openmanager,Productivity,0.212,February 21 2013,118
+14,org.connectbot,Communication,1.8.6,August 28 2015,66
+15,org.connectbot,Communication,1.8.7,November 25 2015,337
+1627,org.cprados.wificellmanager,Tools,1.3.5,January 07 2014,300
+1628,org.cprados.wificellmanager,Tools,1.3.6,June 30 2015,177
+1108,org.cyanogenmod.great.freedom,Personalization,1.8,June 23 2014,109
+784,org.developfreedom.wordpowermadeeasy,Education,0.1.6,May 18 2015,31
+112,org.dmfs.tasks,Productivity,1.1.6,April 06 2015,57
+113,org.dmfs.tasks,Productivity,1.1.8.2,February 12 2016,58
+279,org.dsandler.apps.markers,Video Players & Editors,1.2.3,February 22 2014,400
+1657,org.evilsoft.pathfinder.reference,Books & Reference,1.4.0,April 15 2015,409
+1199,org.fedorahosted.freeotp,Tools,1.5,September 03 2014,18
+1200,org.fedorahosted.freeotp,Tools,1.5,November 29 2014,71
+1201,org.fedorahosted.freeotp,Tools,1.5,January 26 2016,91
+49,org.geometerplus.fbreader.plugin.local_opds_scanner,Books & Reference,1.2,October 08 2014,18
+962,org.geometerplus.zlibrary.ui.android,Books & Reference,2.0.6-ics,September 03 2014,352
+963,org.geometerplus.zlibrary.ui.android,Books & Reference,2.1-ics,July 11 2015,1942
+1259,org.happysanta.gd,Games,1.1.1,May 01 2016,21
+1066,org.helllabs.android.xmp,Music & Audio,3.6.0,May 02 2013,34
+1067,org.helllabs.android.xmp,Music & Audio,3.10.0,August 11 2014,99
+163,org.iilab.pb,Communication,1.4.0,April 22 2015,25
+1425,org.isoron.uhabits,Productivity,1.5.3,May 23 2016,33
+1426,org.isoron.uhabits,Productivity,1.5.4,May 31 2016,97
+1427,org.isoron.uhabits,Productivity,1.5.6,June 20 2016,598
+2032,org.isoron.uhabits,Productivity,1.6.2,October 31 2016,932
+522,org.jessies.dalvikexplorer,Tools,3.9,January 07 2014,34
+1595,org.jfedor.frozenbubble,Games,3.16,July 17 2016,40
+900,org.jsl.wfwt,Communication,1.10,June 02 2016,25
+2033,org.jsl.wfwt,Communication,1.11,October 11 2016,13
+1074,org.kde.kdeconnect_tp,Productivity,1.2,June 27 2016,19
+1075,org.kde.kdeconnect_tp,Productivity,1.3.2,July 17 2016,38
+1076,org.kde.kdeconnect_tp,Productivity,1.4,August 27 2016,317
+642,org.kde.necessitas.ministro,Libraries & Demo,7.0,November 05 2012,448
+643,org.kde.necessitas.ministro,Libraries & Demo,10.0,October 05 2014,456
+2034,org.kde.necessitas.ministro,Libraries & Demo,10.4,November 26 2016,49
+1464,org.kiwix.kiwixmobile,Books & Reference,1.96,November 13 2015,55
+1465,org.kiwix.kiwixmobile,Books & Reference,1.97,February 15 2016,740
+939,org.kost.nmap.android.networkmapper,Tools,1.7,July 26 2015,25
+1055,org.libreoffice.impressremote,Productivity,2.1.1,June 10 2014,50
+1057,org.libreoffice.impressremote,Productivity,2.2.3,October 26 2015,25
+1366,org.ligi.fast,Tools,6.5,August 09 2016,19
+2035,org.ligi.fast,Tools,6.6,December 14 2016,24
+465,org.ligi.vaporizercontrol,Health & Fitness,1.8,July 20 2015,18
+199,org.linphone,Communication,2.5.1-fdroid,September 05 2015,30
+200,org.linphone,Communication,3.1.0-fdroid,March 15 2016,101
+1400,org.mariotaku.twidere.extension.twitlonger,Tools,1.4,March 16 2014,23
+197,org.michaelevans.nightmodeenabler,Personalization,1.0,August 29 2016,462
+1710,org.montrealtransit.android,Maps & Navigation,1.7.7.4,December 09 2013,32
+599,org.montrealtransit.android.schedule.stmbus,Maps & Navigation,1.0.2,December 09 2013,13
+1184,org.mozilla.mozstumbler,Tools,1.7.14,October 31 2015,16
+1185,org.mozilla.mozstumbler,Tools,1.8.6,June 30 2016,23
+51,org.mysociety.FixMyStreet,Travel & Local,2.0.4,September 29 2014,77
+37,org.nick.wwwjdic,Books & Reference,2.3.4,January 14 2014,20
+38,org.nick.wwwjdic,Books & Reference,2.3.7,January 19 2015,36
+901,org.npr.android.news,News & Magazines,2.4,July 31 2013,1725
+428,org.numixproject.iconsubmit,Tools,1.0,October 31 2014,13
+646,org.odk.collect.android,Productivity,1.2.2,January 02 2013,238
+1203,org.openintents.filemanager,Productivity,2.0.3-rc1,August 13 2013,1178
+1220,org.openintents.notepad,Productivity,1.3,January 06 2015,61
+152,org.openintents.safe,Tools,1.4.2-alpha,May 20 2014,139
+564,org.openintents.shopping,Shopping,2.0.3,March 05 2016,81
+122,org.passwordmaker.android,Tools,1.1.11,July 03 2014,18
+1175,org.petero.droidfish,Games,1.57,February 17 2015,325
+1176,org.petero.droidfish,Games,1.61,June 18 2016,80
+1177,org.petero.droidfish,Games,1.62,August 31 2016,86
+2036,org.petero.droidfish,Games,1.63,November 03 2016,260
+922,org.ppsspp.ppsspp,Games,1.1.1.0,November 15 2015,9771
+2038,org.primftpd,Tools,4.7,October 25 2016,30
+496,org.qii.weiciyuan,Social,0.483,February 04 2013,56
+605,org.quantumbadger.redreader,News & Magazines,1.9.5.1,August 06 2016,17
+2040,org.quantumbadger.redreader,News & Magazines,1.9.6.1,November 07 2016,51
+649,org.sagemath.droid,Education,0.9.3,February 05 2014,33
+282,org.scid.android,Games,1.42,March 15 2013,77
+1334,org.scoutant.blokish,Games,2.3,March 18 2015,12
+1335,org.scoutant.blokish,Games,2.4,June 17 2015,14
+1336,org.scoutant.blokish,Games,3.0,November 15 2015,50
+1099,org.scoutant.cc,Games,0.9,January 25 2013,205
+1045,org.scummvm.scummvm,Games,1.5.0,October 29 2013,543
+209,org.servalproject,Communication,0.91,July 22 2013,143
+292,org.sickstache,Tools,2.2.2,October 27 2012,34
+653,org.sipdroid.sipua,Communication,3.4 beta,November 10 2013,29
+654,org.sipdroid.sipua,Communication,3.5 beta,May 17 2014,31
+655,org.sipdroid.sipua,Communication,3.6 beta,December 03 2014,42
+2041,org.sipdroid.sipua,Communication,3.9 beta,October 15 2016,12
+1495,org.smc.inputmethod.indic,Tools,2.0.1,June 02 2015,16
+1496,org.smc.inputmethod.indic,Tools,2.0.2,June 11 2015,359
+1497,org.smc.inputmethod.indic,Tools,2.0.4,March 26 2016,301
+1080,org.smssecure.smssecure,Communication,0.13.0,December 23 2015,18
+1082,org.smssecure.smssecure,Communication,0.13.2,February 08 2016,54
+1084,org.smssecure.smssecure,Communication,0.14.1,April 25 2016,23
+1086,org.smssecure.smssecure,Communication,0.14.3,May 14 2016,115
+1129,org.sufficientlysecure.keychain,Communication,4.0.1,May 20 2016,12
+1131,org.sufficientlysecure.keychain,Communication,4.1,August 09 2016,81
+1267,org.sufficientlysecure.localcalendar,Productivity,1.7,September 12 2015,12
+1268,org.sufficientlysecure.localcalendar,Productivity,1.8,May 03 2016,15
+1051,org.tamanegi.atmosphere,Tools,0.1.3,April 12 2014,16
+783,org.tasks,Productivity,4.9.4,August 12 2016,58
+2044,org.tasks,Productivity,4.9.7,October 29 2016,20
+2045,org.tasks,Productivity,4.9.8,November 18 2016,97
+2046,org.telegram.messenger,Communication,3.13.1,November 04 2016,22816
+156,org.thialfihar.android.apg,Communication,1.0.9,November 12 2013,42
+157,org.thialfihar.android.apg,Communication,1.1.1,April 04 2014,207
+625,org.tint,Communication,1.8,January 07 2014,100
+1125,org.tomdroid,Productivity,0.7.5,January 16 2014,33
+1408,org.torproject.android,Communication,15.0.1-RC-3-PIE,July 18 2015,2941
+608,org.totschnig.myexpenses,Finance,2.7.1,July 12 2016,66
+681,org.traccar.client,Tools,3.11,April 29 2016,20
+593,org.transdroid.lite,Tools,2.5.1,August 24 2015,62
+594,org.transdroid.lite,Tools,2.5.5,November 25 2015,86
+595,org.transdroid.lite,Tools,2.5.7,May 21 2016,140
+1337,org.wahtod.wififixer,Tools,1.0.3.5,September 03 2014,353
+1338,org.wahtod.wififixer,Tools,1.0.4,July 09 2015,248
+1339,org.wahtod.wififixer,Tools,1.0.5,June 04 2016,307
+259,org.wheelmap.android.online,Travel & Local,0.8.3,January 28 2013,13
+945,org.wikipedia,Books & Reference,2.3.150-fdroid,August 02 2016,369
+946,org.wikipedia,Books & Reference,r/2.3.152-r-2016-08-18,September 11 2016,216
+947,org.wikipedia,Books & Reference,beta/2.4.156-beta-2016-09-19,September 21 2016,4825
+545,org.wordpress.android,Social,2.7.1,April 12 2014,3200
+1134,org.xbmc.kore,Video Players & Editors,1.5.0,July 31 2015,291
+1135,org.xbmc.kore,Video Players & Editors,v2.0.0,December 21 2015,609
+1136,org.xbmc.kore,Video Players & Editors,v2.1.0,September 21 2016,400
+1516,org.yaaic,Communication,1.0,August 24 2012,30
+1517,org.yaaic,Communication,1.1,April 13 2015,56
+476,org.yaxim.androidclient,Communication,0.8.8,September 09 2014,48
+448,org.yuttadhammo.BodhiTimer,Lifestyle,4.1.3,October 08 2014,95
+661,org.yuttadhammo.tipitaka,Education,9.2,May 09 2014,70
+1580,org.zamedev.gloomydungeons2.opensource,Games,2016.02.22.1800,July 04 2016,17
+354,ro.mihai.tpt,Maps & Navigation,4.1,August 18 2016,89
+1351,ro.weednet.contactssync,Social,1.2.2,July 26 2013,342
+1352,ro.weednet.contactssync,Social,2.1.1,June 23 2014,739
+1146,rs.pedjaapps.alogcatroot.app,Tools,1.0.2,September 25 2014,17
+1022,ru.gelin.android.browser.open,Tools,0.0.7,May 04 2015,83
+202,ru.gelin.android.sendtosd,Tools,0.3.10c,January 09 2015,53
+203,ru.gelin.android.sendtosd,Tools,0.3.11,February 02 2015,717
+931,ru.gelin.android.weather.notification,Weather,0.3.6,January 20 2015,18
+933,ru.gelin.android.weather.notification,Weather,0.3.8,November 05 2015,24
+731,ru.meefik.busybox,Tools,1.24.2,April 18 2016,133
+2047,ru.meefik.busybox,Tools,1.25.1,November 04 2016,119
+1683,simple.reboot.com,Tools,4p11,January 28 2015,329
+856,teaonly.droideye,Video Players & Editors,1.6.1,June 15 2013,53
+857,teaonly.droideye,Video Players & Editors,2.3,February 02 2015,90
+1725,trikita.obsqr,Tools,2.6,December 09 2013,22
+1726,trikita.obsqr,Tools,2.7,September 25 2014,18
+957,trikita.slide,Productivity,1.3,May 26 2016,22
+1599,tv.piratemedia.lightcontroler,Lifestyle,1.6.1,February 21 2015,55
+1388,uk.ac.ed.inf.mandelbrotmaps,Education,1.01,December 15 2013,30
+689,uk.org.ngo.squeezer,Music & Audio,0.9.1,April 08 2013,294
+490,us.bravender.android.dongsa,Travel & Local,2.2,September 17 2015,28
+1042,us.shandian.giga,Tools,1.1.4,June 21 2015,32
+1798,vnd.blueararat.kaleidoscope6,Entertainment,1.1.2,March 26 2013,15
+373,vu.de.urpool.quickdroid,Tools,4.4,February 02 2014,33
+1605,wb.receiptspro,Finance,2.2.1,October 27 2013,92
+1606,wb.receiptspro,Finance,3.3.3,March 08 2015,168

@@ -16,3 +16,7 @@ For a detailed description of the computed metrics, please refers to:
 We also provide a replication package which includes all the scripts used for the extraction of the code quality metrics. It is available at the following [link](https://github.com/sealuzh/user_quality/blob/master/code_metrics_scripts).
 
 Moreover, [here](https://github.com/sealuzh/user_quality/tree/master/tools) we make available the tool we developed to crawl reviews from the Google Play Store, as well as the code used in order to download apks from F-Droid.
+
+## Main Contributors
+
+[Giovanni Grano](https://github.com/giograno) - (University of Zurich), [Sebastiano Panichella](https://github.com/panichella) - (University of Zurich), [Andrea di Sorbo](https://github.com/adisorbo) - (University of Sannio)
